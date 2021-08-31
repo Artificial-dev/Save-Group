@@ -87,7 +87,7 @@ async def text_handler(_, cmd: Message):
         "Hi Unkil!\n"
         "I am Group Files Store Userbot.\n\n"
         "Add me to Group I will Save Group Files & Delete Them After 10 Minutes. Also I will Reply with Revive Link.\n"
-        "**Demo Group:** [Discovery Cloud](https://t.me/joinchat/O9WIjhCGHLo0YmQ0)",
+        "**by @trOy007:** [Discovery Cloud](https://t.me/mirrorupdatesnnews)",
         disable_web_page_preview=True
     )
 
